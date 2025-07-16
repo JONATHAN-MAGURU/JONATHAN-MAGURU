@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Jonathan Maguru
+## </> Frontend Developer | 🧑🏾‍💻 UI/UX Designer
 
+- 🔭 I’m currently working on [Scoolverse Systems](https://scoolverse.edu),
+  - A scalable Student Information Management System (SIMS) designed to support institutions across all educational levels from primary to tertiary education.
+- 🌱 I recently contributed to [MSCE Chatbolt](https://msce-chatbolt.netlify.app),
+  - An AI-powered chatbot built with React and integrates with OpenAI models to support secondary school education in Malawi.
+- 👯 I’m looking to collaborate on innovative backend and frontend projects.
+  - Let's connect 🖇️. jonathanmaguru@gmail.com
 <!--
 **JONATHAN-MAGURU/JONATHAN-MAGURU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
