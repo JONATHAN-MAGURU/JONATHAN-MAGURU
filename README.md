@@ -6,7 +6,8 @@
 - 🌱 I recently contributed to [MSCE Chatbolt](https://msce-chatbolt.netlify.app),
   - An AI-powered chatbot built with React and integrates with OpenAI models to support secondary school education in Malawi.
 - 👯 I’m looking to collaborate on innovative backend and frontend projects.
-  - Let's connect 🖇️. jonathanmaguru@gmail.com
+  - Let's connect 🖇️ [Send me an email](https://mail.google.com/mail/?view=cm&to=jonathanmaguru@gmail.com&su=Hello&body=I%20saw%20your%20GitHub%20profile...)
+
 
  ## 🚀 Tech Stack
 
